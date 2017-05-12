@@ -1,7 +1,7 @@
 {
   "name": "animationjs",
-  "description": "播放动画",
-  "version": "0.1.6",
+  "description": "generate a animation.",
+  "version": "0.1.7",
   "contributors": [
     {
       "name": "mr.raindrop",
